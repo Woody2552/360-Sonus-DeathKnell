@@ -1,3 +1,5 @@
+The exact chip package this project was originally sourced around is no longer available, so a workaround is needed. This will likely deplete the last of all stock. Once consumed, I expect no more Sonus360 chip can be made.
+
 # Sonus 360
 
 Clone of the Phat Sonus 360
